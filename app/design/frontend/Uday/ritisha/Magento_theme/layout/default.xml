@@ -1,0 +1,9 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+   <referenceBlock name="logo">
+       <arguments>
+           <argument name="logo_file" xsi:type="string">images/flipkart.jpg</argument>
+           <argument name="logo_img_width" xsi:type="number">100</argument>
+           <argument name="logo_img_height" xsi:type="number">100</argument>
+       </arguments>
+   </referenceBlock>
+</page>
